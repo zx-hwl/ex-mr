@@ -1,4 +1,0 @@
-#国庆节快乐
-#修改文件贼快乐
-package mypackage;
-import java.util.LinkedList;
